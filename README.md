@@ -2,6 +2,7 @@
 
 ## Hubs and Social Media
 
+- [Issues](https://go.owta.dev/issues) – Post your suggestions and other inquiries regarding our community.
 - [Discussions](https://go.owta.dev/discussions) – Ask questions, share ideas, and discuss topics with the community.
 - [Discord](https://go.owta.dev/discord) – Join our Discord server to chat with other members.
 - [Mastodon](https://go.owta.dev/mastodon) – Follow us on Mastodon for updates and announcements.
